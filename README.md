@@ -82,5 +82,12 @@ All rights belong to their respective creators.
 - [Apple Model](https://www.fab.com/listings/34d0ab78-7287-4d36-954e-c3461231e3a8) – via Fab.com.  
 - [Toy Rocket Model](https://www.fab.com/listings/b8be6c85-2d54-47cf-9010-7b3e9de0b33a) – via Fab.com.  
 - [Magic Wand Model](https://www.fab.com/listings/0711299c-ca45-4315-8cb1-08592c77de62) – via Fab.com.  
-- [Basketball Model](https://www.fab.com/listings/be7c485f-bd36-4313-97c5-1f1d8e6ac48f) – via Fab.com.  
+- [Basketball Model](https://www.fab.com/listings/be7c485f-bd36-4313-97c5-1f1d8e6ac48f) – via Fab.com.
+
+
+## HDA Icons Credits
+
+The two HDAs use icons from  
+- [Icons](https://www.streamlinehq.com/icons) – via StreamlineHQ.com.
+
 
